@@ -1,0 +1,6 @@
+	consumer_key: foobar11
+	customer-key: foobar55
+	consumer-key: foobar44
+AKIAIGTOPSI4S5YCHGHQ
+Password: "LordqtknowWhat!", failure: API_
+consumer-key := "baz-sh68"
